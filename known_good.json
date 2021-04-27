@@ -5,7 +5,7 @@
       "site" : "github",
       "subrepo" : "KhronosGroup/glslang",
       "subdir" : "third_party/glslang",
-      "commit" : "60ce877de03ff03bb87fb9ef6b744ee33d076034"
+      "commit" : "18eef33bd7a4bf5ad8c69f99cb72022608cf6e73"
     },
     {
       "name" : "re2",
